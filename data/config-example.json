@@ -1,0 +1,42 @@
+{
+  "token":"DISCORD_TOKEN",
+  "serverid": "DISCORD_SERVER_ID",
+  "prefix": "!",
+  "userid":
+  {
+    "owner": "DISCORD_OWNER_ID",
+	"bot": "DISCORD_BOT_ID"
+  },
+  "tag":
+  {
+    "admin": "Officer",
+    "member": "Recruit",
+	"officer": "Officer",
+	"potential": "Anonymous",
+	"foreign": "Foreigner",
+	"exile" : "Exile"
+  },
+  "channel":
+  {
+    "welcome": "DISCORD_WELCOME_CHANNEL_ID",
+	"announcement": "DISCORD_WELCOME_CHANNEL_ID",
+	"guildrules": "DISCORD_WELCOME_CHANNEL_ID",
+	"leaderboard": "DISCORD_WELCOME_CHANNEL_ID",
+    "botlog": "DISCORD_WELCOME_CHANNEL_ID",
+    "modchat": "DISCORD_WELCOME_CHANNEL_ID",
+    "general": "DISCORD_WELCOME_CHANNEL_ID"
+  },
+  "bot":
+  {
+	"gamezbd": "364161229452869633"
+  },
+  "doc":
+  {
+	"member": "GOOGLE_SHEET_ID"
+  },
+  "time":
+  {
+	"defaults": 14,
+	"endgame": 21
+  }
+}

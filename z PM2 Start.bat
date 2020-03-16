@@ -1,0 +1,1 @@
+pm2 start index.js --name="Nightingale2" --log-date-format 'DD-MM HH:mm:ss.SSS'
